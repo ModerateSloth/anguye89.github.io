@@ -9,7 +9,7 @@ canvas {
 }
 #vanta-canvas {
     width: 100%;
-    height: 40vh;
+    height: 60vh;
 }
 ::selection {
     background: #9463dd;
