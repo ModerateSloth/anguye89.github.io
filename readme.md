@@ -23,3 +23,7 @@ https://commons.wikimedia.org/wiki/File:Android_Studio_Icon_3.6.svg
 https://stackoverflow.com/questions/2580772/how-do-i-get-a-new-line-after-using-floatleft
 https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
 https://pagedart.com/blog/linking-images-in-html/
+https://en.wikipedia.org/wiki/File:Gmail_icon_(2020).svg
+https://brand.linkedin.com/downloads
+https://github.com/logos
+https://www.w3schools.com/tags/tag_address.asp
