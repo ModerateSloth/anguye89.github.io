@@ -21,4 +21,4 @@ https://www.w3schools.com/html/html_links_bookmarks.asp
 https://stackoverflow.com/questions/34016830/how-to-remove-white-space-between-div-elements
 https://commons.wikimedia.org/wiki/File:Android_Studio_Icon_3.6.svg
 https://stackoverflow.com/questions/2580772/how-do-i-get-a-new-line-after-using-floatleft
-
+https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
