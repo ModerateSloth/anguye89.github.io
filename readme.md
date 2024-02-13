@@ -1,6 +1,8 @@
 #Anthony's Portfolio
 An online portfolio for Anthony Nguyen through Github
 Github Link: https://github.com/ModerateSloth/anguye89.github.io
+WebPage: https://moderatesloth.github.io/anguye89.github.io/
+
 
 By Anthony Nguyen
 Resources and links:
