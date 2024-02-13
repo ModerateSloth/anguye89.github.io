@@ -16,3 +16,9 @@ https://www.vecteezy.com/vector-art/4578793-man-working-with-computer-at-desk
 https://unsplash.com/photos/black-and-gray-audio-mixer-rGklzMk-58g
 https://unsplash.com/photos/black-flat-screen-computer-monitor-hHIk58IC2vI
 https://www.thenoorhub.in/2020/10/create-animated-backgrounds-with-vanta.html
+https://www.w3schools.com/howto/howto_js_topnav.asp
+https://www.w3schools.com/html/html_links_bookmarks.asp
+https://stackoverflow.com/questions/34016830/how-to-remove-white-space-between-div-elements
+
+
+
