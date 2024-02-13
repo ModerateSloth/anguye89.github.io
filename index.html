@@ -7,16 +7,138 @@
     <link rel='stylesheet' type='text/css' media='screen' href='css/portfolio.css'>
 </head>
 
-<body>
-	<div class="backG">
-		<div id = "coolBack">
-			<div id="vanta-canvas">
-			<canvas class="vanta-canvas" style="display: block; position: absolute; z-index: 0; top: 0px; left: 0px; width: 100%; height: auto;"></canvas>
+<body style="background-color:#202124; height:auto; width: auto; color:white; font-family: Sans-serif;">
+	<div class="topnav">
+		<a class="active" href="#top">Home</a>
+		<a href="#aboutme">About Me</a>
+		<a href="#projects">Projects</a>
+		<a href="#contactme">Contact Me</a>
+	</div>
+	<div id = "coolTop">
+		
+		<div id="vanta-canvas">
+		<h1 id = "intro" style= "top:10px; left:20px;" >Anthony Nguyen</h1>
+		<h1 id = "littleFacts" style= "top:10px; left:20px;" >Software Engineer - Computer Technician - Student</h1>
+		</div>
+		
+	</div>
+	<div id = "aboutme">
+		<div id = "pcpic" style = "float: left;">
+			<img id = "pcid" src="assets/pascal-brandle-rGklzMk-58g-unsplash.jpg">
+		</div>
+		<div id= "describeMe" style=" width:auto;">
+			<h1 style="font-size: 60px;">About Me </h1>
+			<p style="font-size:30px;">I attend George Mason University as a senior studying Computer Science. My goal is to obtain an undergraduate degree. As a Full Stack Developer, I am constantly trying to get better at problem solving and programming. I enjoy gaming, but I am also fond of building computers a lot as well.</p>
+			<br>
+			<h2 style="font-size:30px;">Programming Languages and Tools:</h2>
+			<br>
+			<div id = "htmlL" style="float:left; padding-left:40px;">
+				<img src="assets/html5logo.png" style="width:70px; height:70px;">
+				<p>HTML5</p>
+			</div>
+			<div id = "cssL" style="float:left; padding-left:40px;">
+				<img src="assets/css3logo.png" style="width:70px; height:70px;">
+				<p>CSS3</p>
+			</div>
+			<div id = "jsL" style="float:left; padding-left:40px;">
+				<img src="assets/javascriptlogo.png" style="width:70px; height:70px;">
+				<p>Javascript</p>
+			</div>
+			<div id = "pythonL" style="float:left; padding-left:40px;">
+				<img src="assets/pythonlogo.png" style="width:140px; height:70px;">
+				<p>Python</p>
+			</div>
+			<div id = "javaL" style="float:left; padding-left:40px;">
+				<img src="assets/javalogo.png" style="width:70px; height:70px;">
+				<p>Java</p>
+			</div>
+			<div id = "sqlL" style="float:left; padding-left:40px;">
+				<img src="assets/sqllogo.png" style="width:120px; height:70px;">
+				<p>SQL</p>
+			</div>
+			<div id = "mongoL" style="float:left; padding-left:40px;">
+				<img src="assets/mongodblogo.png" style="width:140px; height:70px;">
+				<p>MongoDB</p>
+			</div>
+			<div id = "androidsL" style="float:left; padding-left:40px;">
+				<img src="assets/androidstudiologo.png" style="width:70px; height:70px;">
+				<p>Android Studio</p>
 			</div>
 		</div>
-		<div id = "progLangs"></div>
 	</div>
+	<br style="clear:both" />
+	<br>
+	<div id = "projects"></div>
+	<h1 style="font-size: 60px; text-align:center;">Projects</h1>
 	
+	<div id = "projects1">
+		
+		<div id = "project1" style="float: right;">
+			<a href="https://moderatesloth.github.io/GoogleClone/">
+				<img id = "projImg" src="assets/poodle.png">
+			</a>
+		</div>
+		
+		<div id = "project1Desc" style="padding-left:50px;">
+				<h2 style="font-size:40px;">Poodle - The Google Clone</h2>
+				<br>
+				<p style="font-size:30px;">The project is a recreation of the google search engine starting page. The page includes a dark mode feature. There are links to do an advance sesarch and image search.</p>
+		</div>
+	</div>
+	<br style="clear:both" />
+	<br>
+	<div id = "projects2">
+		
+		<div id = "project2" style="float: left; padding-left:50px">
+			<a href="https://github.com/ModerateSloth/Coordify">
+				<img id = "projImg" src="assets/coordify.png">
+			</a>
+		</div>
+		
+		<div id = "project2Desc" style="padding-left:50px;">
+				<h2 style="font-size:40px;">Coordify - Discord Scheduling Bot</h2>
+				<br>
+				<p style="font-size:30px;">The project is a scheduling system for Discord and has a simple layout. It is a self hosted discord bot that uses sql lite 3 and all the resources will be in the github repository.</p>
+		</div>
+	</div>
+	<br style="clear:both" />
+	<br>
+	<div id = "projects3">
+		
+		<div id = "project3" style="float: right;">
+			<a href="https://github.com/ModerateSloth/CustomNewTab">
+				<img id = "projImg" src="assets/newtab.png">
+			</a>
+		</div>
+		
+		<div id = "project3Desc" style="padding-left:50px;">
+				<h2 style="font-size:40px;">New Tab Google Chrome Extension</h2>
+				<br>
+				<p style="font-size:30px;">The project will replace your old new tabs into a custom new tab. It features a clock, pomodoro timer and random quotes. You can also change the name on the screen.</p>
+		</div>
+	</div>
+	<br style="clear:both" />
+	<br><br><br><br><br><br>
+	
+	<div id = "contactme" style="text-align:center;">
+		<h1>Contact Me!</h1>
+		<br>
+		<div id = "links">
+			<a href="https://github.com/ModerateSloth">
+				<img id = "contactBox" src="assets/github-mark-white.png">
+			</a>
+			<a href="mailto:nguyenanthon59@gmail.com">
+				<img id = "contactBox" src="assets/gmail.png">
+			</a>
+			<a href="linkedin.html">
+				<img id = "contactBox" src="assets/LI-Logo.png">
+			</a>
+		</div>
+	</div>
+	<br style="clear:both" />
+	<br>
+	<a href="#top" style="float:right; color: white; font-size: 40px; padding-right:50px;">Back To The Top</a>
+	<br><br><br><br><br><br>
 </body>
 <script src="js/three.r121.min.js"></script>
 <script src="js/vanta.halo.min.js"></script>
